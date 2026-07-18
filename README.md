@@ -1,5 +1,16 @@
-I am  BS Computer Engineering Fresh Graduate currently Flyrank Intern for Frontend AI 
+# Capstone Portfolio
 
-This a Captone Project for AI - assisted Dev Track - SCOPE TBD
+Personal portfolio showcasing projects, skills, and resume — built as a capstone project for the AI-assisted Dev Track.
 
-TechStack: React.js, Node.js
+**Status:** Early development — features and scope are still being defined.
+
+## About the author
+
+BS Computer Engineering graduate and Flyrank Frontend AI intern.
+
+## Tech stack
+
+- Next.js (App Router)
+- React
+- TypeScript
+- Node.js (LTS)
